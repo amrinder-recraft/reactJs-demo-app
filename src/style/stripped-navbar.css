@@ -1,0 +1,10 @@
+.stripped-navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.stripped-navbar > a > img {
+    width: 5rem;
+    margin: 1.5rem 0rem 0rem 0rem;
+}

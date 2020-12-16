@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.jobsbuddha.app",
+               "sha256_cert_fingerprints": ["5D:F1:85:44:D2:10:6E:BD:56:07:E1:97:94:2F:BA:C8:25:8E:05:0E:8C:12:BB:2C:AF:53:77:5E:8B:9B:57:67"] }
+}]

@@ -1,0 +1,33 @@
+span.is-danger {
+    border: 0.0625rem solid #ff3860 !important;
+}
+
+.font-1rem {
+    font-size: 1rem;
+}
+
+.checkbox {
+    margin-bottom: 20px;
+    margin-top: 15px;
+    display: flex !important;
+}
+
+.checkbox input {
+    margin-right: 5px;
+    height: 17px;
+    width: 17px;
+}
+
+.checkbox p {
+    margin-top: 0px;
+    color: black;
+    font-size: 14px;
+}
+
+.tag-padding {
+    padding-left: .4em !important;
+}
+
+.remove-padding {
+    padding-left: 0em !important;
+}

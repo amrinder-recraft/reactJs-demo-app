@@ -1,0 +1,91 @@
+.countries-option {
+    padding: 0.5rem;
+}
+
+.countries-option .country-flag {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0rem;
+}
+
+.job-message-wrapper {
+    background-color: white;
+    border: 0.0625rem solid #e7e7e7;
+}
+
+.job-message-toolbar {
+    border: none !important;
+}
+
+.job-message-editor {
+    padding: 0rem 1.25rem;
+}
+
+.post_form {
+    margin-bottom: 6rem;
+    padding: 0px 1rem;
+}
+
+.post_form .input {
+    height: 2.375em;
+}
+
+.post_form .has-text-danger {
+    font-size: 1rem;
+    height: 2.375rem;
+}
+
+.post_form .tell-us {
+    text-align: center;
+    font-size: 1.975rem;
+    margin: 0.4em 0rem;
+}
+
+.post_form .border-danger-country {
+    border: 0.0625rem solid #ff3860;
+    border-radius: 0.25rem;
+}
+
+.is-danger-tag {
+    border: 1px solid #ff3860;
+    border-radius: 5px;
+}
+
+.states-cities {
+    height: 150px;
+    overflow: scroll;
+    position: absolute;
+    z-index: 1;
+    width: 96%;
+}
+
+.states-cities .list-item {
+    background: #fff;
+    padding: 0.3em;
+    font-size: 1rem;
+    cursor: pointer;
+    color: #3273dc;
+}
+
+.relative {
+    position: relative;
+}
+
+.remotelyJob {
+    display: flex;
+    align-items: center;
+}
+
+@media only screen and (max-width: 768px) {
+    .column-reverse {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .states-cities {
+        width: 93%;
+    }
+}

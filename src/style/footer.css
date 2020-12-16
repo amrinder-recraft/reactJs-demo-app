@@ -1,0 +1,36 @@
+.footer-container {
+    padding-bottom: 2.188rem;
+    flex-shrink: 0;
+}
+.footer-jobs-buddha-copy-right {
+    display: flex;
+    align-items: center;
+}
+
+.footer-jobs-buddha-social-icons {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.footer-jobs-buddha-social-icons.mobile {
+    justify-content: center;
+}
+
+.footer-jobs-buddha-copy-right .copy-icon{
+    font-size: 0.938rem;
+    color: #cac8c8;
+    margin-right: 0.313rem;
+}
+
+.footer-jobs-buddha-copy-right .copy{
+    font-size: 0.750rem;
+    color: #cac8c8;
+    text-transform: uppercase;
+}
+
+.footer-jobs-buddha-social-icons > a {
+    font-size: 0.875rem;
+    color: #333333;
+    padding: 0rem 1.25rem;
+}

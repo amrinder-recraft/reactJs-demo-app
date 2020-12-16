@@ -1,0 +1,21 @@
+@media only screen and (max-width: 768px) {
+    .navbar {
+        padding-top: 0rem;
+    }
+
+    .search-container {
+        margin-bottom: 1rem;
+    }
+
+    .content h1 {
+        margin-bottom: 0rem;
+    }
+
+    .content h3 {
+        margin-bottom: 0rem;
+    }
+
+    body {
+        font-size: 17px !important;
+    }
+}

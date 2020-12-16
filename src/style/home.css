@@ -1,0 +1,71 @@
+.tagline {
+    margin-top: 2rem;
+}
+
+.logo {
+    width: 12.500em;
+}
+
+.home__container {
+    padding-bottom: 1rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+
+.search-container {
+    margin-top: 2rem;
+    margin-bottom: 5rem;
+}
+
+.JobListItem {
+    cursor: pointer;
+    color: #363636;
+}
+
+.job-company-position {
+    text-transform: capitalize;
+    color: #3273dc;
+}
+
+.job-company-name {
+    margin-top: 0rem !important;
+    color: #77777787 !important;
+}
+
+.action-button-container {
+    margin-top: 1.250em;
+}
+
+.action-button-container > a {
+    z-index: 1;
+}
+
+.no-search {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loading-container {
+    display: flex;
+    justify-content: center;
+}
+
+.break-word {
+    word-break: break-all;
+}
+
+.remove-underline {
+    text-decoration: none !important;
+
+}
+
+@media screen and (max-width: 400px) {
+    .apply-full-width {
+      width: 100%;
+    }
+  }
+
+.home__container .pagination {
+    justify-content: center;
+}
